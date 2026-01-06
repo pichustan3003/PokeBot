@@ -1,0 +1,51 @@
+{
+  "id": 10,
+  "name": "other",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Other"
+    }
+  ],
+  "pokemon_species": [
+    {
+      "name": "pawmot",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/923/"
+    },
+    {
+      "name": "maushold",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/925/"
+    },
+    {
+      "name": "brambleghast",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/947/"
+    },
+    {
+      "name": "rabsca",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/954/"
+    },
+    {
+      "name": "palafin",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/964/"
+    },
+    {
+      "name": "annihilape",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/979/"
+    },
+    {
+      "name": "kingambit",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/983/"
+    },
+    {
+      "name": "gholdengo",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/1000/"
+    },
+    {
+      "name": "overqwil",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/904/"
+    }
+  ]
+}

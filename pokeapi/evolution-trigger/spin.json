@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "name": "spin",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Spin"
+    }
+  ],
+  "pokemon_species": [
+    {
+      "name": "alcremie",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/869/"
+    }
+  ]
+}

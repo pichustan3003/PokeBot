@@ -1,0 +1,359 @@
+{
+  "id": 55,
+  "items": [
+    {
+      "name": "picnic-set",
+      "url": "https://pokeapi.co/api/v2/item/2015/"
+    },
+    {
+      "name": "academy-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2016/"
+    },
+    {
+      "name": "academy-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2017/"
+    },
+    {
+      "name": "polka-dot-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2018/"
+    },
+    {
+      "name": "striped-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2019/"
+    },
+    {
+      "name": "diamond-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2020/"
+    },
+    {
+      "name": "academy-cup",
+      "url": "https://pokeapi.co/api/v2/item/2021/"
+    },
+    {
+      "name": "academy-cup",
+      "url": "https://pokeapi.co/api/v2/item/2022/"
+    },
+    {
+      "name": "striped-cup",
+      "url": "https://pokeapi.co/api/v2/item/2023/"
+    },
+    {
+      "name": "polka-dot-cup",
+      "url": "https://pokeapi.co/api/v2/item/2024/"
+    },
+    {
+      "name": "flower-pattern-cup",
+      "url": "https://pokeapi.co/api/v2/item/2025/"
+    },
+    {
+      "name": "academy-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2026/"
+    },
+    {
+      "name": "academy-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2027/"
+    },
+    {
+      "name": "whimsical-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2028/"
+    },
+    {
+      "name": "leafy-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2029/"
+    },
+    {
+      "name": "spooky-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2030/"
+    },
+    {
+      "name": "academy-ball",
+      "url": "https://pokeapi.co/api/v2/item/2031/"
+    },
+    {
+      "name": "academy-ball",
+      "url": "https://pokeapi.co/api/v2/item/2032/"
+    },
+    {
+      "name": "marill-ball",
+      "url": "https://pokeapi.co/api/v2/item/2033/"
+    },
+    {
+      "name": "yarn-ball",
+      "url": "https://pokeapi.co/api/v2/item/2034/"
+    },
+    {
+      "name": "cyber-ball",
+      "url": "https://pokeapi.co/api/v2/item/2035/"
+    },
+    {
+      "name": "gold-pick",
+      "url": "https://pokeapi.co/api/v2/item/2036/"
+    },
+    {
+      "name": "silver-pick",
+      "url": "https://pokeapi.co/api/v2/item/2037/"
+    },
+    {
+      "name": "red-flag-pick",
+      "url": "https://pokeapi.co/api/v2/item/2038/"
+    },
+    {
+      "name": "blue-flag-pick",
+      "url": "https://pokeapi.co/api/v2/item/2039/"
+    },
+    {
+      "name": "pika-pika-pick",
+      "url": "https://pokeapi.co/api/v2/item/2040/"
+    },
+    {
+      "name": "winking-pika-pick",
+      "url": "https://pokeapi.co/api/v2/item/2041/"
+    },
+    {
+      "name": "vee-vee-pick",
+      "url": "https://pokeapi.co/api/v2/item/2042/"
+    },
+    {
+      "name": "smiling-vee-pick",
+      "url": "https://pokeapi.co/api/v2/item/2043/"
+    },
+    {
+      "name": "blue-pok\u00e9-ball-pick",
+      "url": "https://pokeapi.co/api/v2/item/2044/"
+    },
+    {
+      "name": "auspicious-armor",
+      "url": "https://pokeapi.co/api/v2/item/2045/"
+    },
+    {
+      "name": "leader\u2019s-crest",
+      "url": "https://pokeapi.co/api/v2/item/2046/"
+    },
+    {
+      "name": "pink-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2047/"
+    },
+    {
+      "name": "blue-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2048/"
+    },
+    {
+      "name": "yellow-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2049/"
+    },
+    {
+      "name": "steel-bottle-(r)",
+      "url": "https://pokeapi.co/api/v2/item/2050/"
+    },
+    {
+      "name": "steel-bottle-(y)",
+      "url": "https://pokeapi.co/api/v2/item/2051/"
+    },
+    {
+      "name": "steel-bottle-(b)",
+      "url": "https://pokeapi.co/api/v2/item/2052/"
+    },
+    {
+      "name": "silver-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2053/"
+    },
+    {
+      "name": "barred-cup",
+      "url": "https://pokeapi.co/api/v2/item/2054/"
+    },
+    {
+      "name": "diamond-pattern-cup",
+      "url": "https://pokeapi.co/api/v2/item/2055/"
+    },
+    {
+      "name": "fire-pattern-cup",
+      "url": "https://pokeapi.co/api/v2/item/2056/"
+    },
+    {
+      "name": "pink-cup",
+      "url": "https://pokeapi.co/api/v2/item/2057/"
+    },
+    {
+      "name": "blue-cup",
+      "url": "https://pokeapi.co/api/v2/item/2058/"
+    },
+    {
+      "name": "yellow-cup",
+      "url": "https://pokeapi.co/api/v2/item/2059/"
+    },
+    {
+      "name": "pikachu-cup",
+      "url": "https://pokeapi.co/api/v2/item/2060/"
+    },
+    {
+      "name": "eevee-cup",
+      "url": "https://pokeapi.co/api/v2/item/2061/"
+    },
+    {
+      "name": "slowpoke-cup",
+      "url": "https://pokeapi.co/api/v2/item/2062/"
+    },
+    {
+      "name": "silver-cup",
+      "url": "https://pokeapi.co/api/v2/item/2063/"
+    },
+    {
+      "name": "exercise-ball",
+      "url": "https://pokeapi.co/api/v2/item/2064/"
+    },
+    {
+      "name": "plaid-tablecloth-(y)",
+      "url": "https://pokeapi.co/api/v2/item/2065/"
+    },
+    {
+      "name": "plaid-tablecloth-(b)",
+      "url": "https://pokeapi.co/api/v2/item/2066/"
+    },
+    {
+      "name": "plaid-tablecloth-(r)",
+      "url": "https://pokeapi.co/api/v2/item/2067/"
+    },
+    {
+      "name": "b&w-grass-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2068/"
+    },
+    {
+      "name": "battle-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2069/"
+    },
+    {
+      "name": "monstrous-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2070/"
+    },
+    {
+      "name": "striped-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2071/"
+    },
+    {
+      "name": "diamond-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2072/"
+    },
+    {
+      "name": "polka-dot-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2073/"
+    },
+    {
+      "name": "lilac-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2074/"
+    },
+    {
+      "name": "mint-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2075/"
+    },
+    {
+      "name": "peach-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2076/"
+    },
+    {
+      "name": "yellow-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2077/"
+    },
+    {
+      "name": "blue-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2078/"
+    },
+    {
+      "name": "pink-tablecloth",
+      "url": "https://pokeapi.co/api/v2/item/2079/"
+    },
+    {
+      "name": "gold-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2080/"
+    },
+    {
+      "name": "bronze-bottle",
+      "url": "https://pokeapi.co/api/v2/item/2081/"
+    },
+    {
+      "name": "gold-cup",
+      "url": "https://pokeapi.co/api/v2/item/2082/"
+    },
+    {
+      "name": "bronze-cup",
+      "url": "https://pokeapi.co/api/v2/item/2083/"
+    },
+    {
+      "name": "green-pok\u00e9-ball-pick",
+      "url": "https://pokeapi.co/api/v2/item/2084/"
+    },
+    {
+      "name": "red-pok\u00e9-ball-pick",
+      "url": "https://pokeapi.co/api/v2/item/2085/"
+    },
+    {
+      "name": "party-sparkler-pick",
+      "url": "https://pokeapi.co/api/v2/item/2086/"
+    },
+    {
+      "name": "heroic-sword-pick",
+      "url": "https://pokeapi.co/api/v2/item/2087/"
+    },
+    {
+      "name": "magical-star-pick",
+      "url": "https://pokeapi.co/api/v2/item/2088/"
+    },
+    {
+      "name": "magical-heart-pick",
+      "url": "https://pokeapi.co/api/v2/item/2089/"
+    },
+    {
+      "name": "parasol-pick",
+      "url": "https://pokeapi.co/api/v2/item/2090/"
+    },
+    {
+      "name": "blue-sky-flower-pick",
+      "url": "https://pokeapi.co/api/v2/item/2091/"
+    },
+    {
+      "name": "sunset-flower-pick",
+      "url": "https://pokeapi.co/api/v2/item/2092/"
+    },
+    {
+      "name": "sunrise-flower-pick",
+      "url": "https://pokeapi.co/api/v2/item/2093/"
+    },
+    {
+      "name": "blue-dish",
+      "url": "https://pokeapi.co/api/v2/item/2094/"
+    },
+    {
+      "name": "green-dish",
+      "url": "https://pokeapi.co/api/v2/item/2095/"
+    },
+    {
+      "name": "orange-dish",
+      "url": "https://pokeapi.co/api/v2/item/2096/"
+    },
+    {
+      "name": "red-dish",
+      "url": "https://pokeapi.co/api/v2/item/2097/"
+    },
+    {
+      "name": "white-dish",
+      "url": "https://pokeapi.co/api/v2/item/2098/"
+    },
+    {
+      "name": "yellow-dish",
+      "url": "https://pokeapi.co/api/v2/item/2099/"
+    }
+  ],
+  "name": "picnic",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Picnic"
+    }
+  ],
+  "pocket": {
+    "name": "misc",
+    "url": "https://pokeapi.co/api/v2/item-pocket/1/"
+  }
+}

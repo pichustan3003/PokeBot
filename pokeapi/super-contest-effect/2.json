@@ -1,0 +1,75 @@
+{
+  "appeal": 2,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Earn +2 if the Judge\u2019s Voltage goes up.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    }
+  ],
+  "id": 4,
+  "moves": [
+    {
+      "name": "octazooka",
+      "url": "https://pokeapi.co/api/v2/move/190/"
+    },
+    {
+      "name": "zap-cannon",
+      "url": "https://pokeapi.co/api/v2/move/192/"
+    },
+    {
+      "name": "poison-fang",
+      "url": "https://pokeapi.co/api/v2/move/305/"
+    },
+    {
+      "name": "weather-ball",
+      "url": "https://pokeapi.co/api/v2/move/311/"
+    },
+    {
+      "name": "silver-wind",
+      "url": "https://pokeapi.co/api/v2/move/318/"
+    },
+    {
+      "name": "signal-beam",
+      "url": "https://pokeapi.co/api/v2/move/324/"
+    },
+    {
+      "name": "poison-tail",
+      "url": "https://pokeapi.co/api/v2/move/342/"
+    },
+    {
+      "name": "brine",
+      "url": "https://pokeapi.co/api/v2/move/362/"
+    },
+    {
+      "name": "poison-jab",
+      "url": "https://pokeapi.co/api/v2/move/398/"
+    },
+    {
+      "name": "bug-buzz",
+      "url": "https://pokeapi.co/api/v2/move/405/"
+    },
+    {
+      "name": "dragon-pulse",
+      "url": "https://pokeapi.co/api/v2/move/406/"
+    },
+    {
+      "name": "stone-edge",
+      "url": "https://pokeapi.co/api/v2/move/444/"
+    },
+    {
+      "name": "grass-knot",
+      "url": "https://pokeapi.co/api/v2/move/447/"
+    },
+    {
+      "name": "attack-order",
+      "url": "https://pokeapi.co/api/v2/move/454/"
+    },
+    {
+      "name": "spacial-rend",
+      "url": "https://pokeapi.co/api/v2/move/460/"
+    }
+  ]
+}

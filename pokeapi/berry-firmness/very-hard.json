@@ -1,0 +1,94 @@
+{
+  "berries": [
+    {
+      "name": "leppa",
+      "url": "https://pokeapi.co/api/v2/berry/6/"
+    },
+    {
+      "name": "sitrus",
+      "url": "https://pokeapi.co/api/v2/berry/10/"
+    },
+    {
+      "name": "razz",
+      "url": "https://pokeapi.co/api/v2/berry/16/"
+    },
+    {
+      "name": "nanab",
+      "url": "https://pokeapi.co/api/v2/berry/18/"
+    },
+    {
+      "name": "pomeg",
+      "url": "https://pokeapi.co/api/v2/berry/21/"
+    },
+    {
+      "name": "yache",
+      "url": "https://pokeapi.co/api/v2/berry/40/"
+    },
+    {
+      "name": "coba",
+      "url": "https://pokeapi.co/api/v2/berry/44/"
+    },
+    {
+      "name": "liechi",
+      "url": "https://pokeapi.co/api/v2/berry/53/"
+    },
+    {
+      "name": "ganlon",
+      "url": "https://pokeapi.co/api/v2/berry/54/"
+    },
+    {
+      "name": "salac",
+      "url": "https://pokeapi.co/api/v2/berry/55/"
+    },
+    {
+      "name": "petaya",
+      "url": "https://pokeapi.co/api/v2/berry/56/"
+    }
+  ],
+  "id": 4,
+  "name": "very-hard",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "https://pokeapi.co/api/v2/language/1/"
+      },
+      "name": "\u3068\u3066\u3082\u304b\u305f\u3044"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "https://pokeapi.co/api/v2/language/4/"
+      },
+      "name": "\u5f88\u5805\u786c"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Tr\u00e8s ferme"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "https://pokeapi.co/api/v2/language/7/"
+      },
+      "name": "Muy dura"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Very Hard"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "https://pokeapi.co/api/v2/language/12/"
+      },
+      "name": "\u5f88\u575a\u786c"
+    }
+  ]
+}

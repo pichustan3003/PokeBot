@@ -1,0 +1,107 @@
+{
+  "id": 9,
+  "name": "story-progress",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Story Progress"
+    }
+  ],
+  "values": [
+    {
+      "name": "story-progress-awakened-beasts",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/29/"
+    },
+    {
+      "name": "story-progress-beat-galactic-coronet",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/30/"
+    },
+    {
+      "name": "story-progress-oak-eterna-city",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/31/"
+    },
+    {
+      "name": "story-progress-vermilion-copycat",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/32/"
+    },
+    {
+      "name": "story-progress-met-tornadus-thundurus",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/33/"
+    },
+    {
+      "name": "story-progress-beat-elite-four-round-two",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/34/"
+    },
+    {
+      "name": "story-progress-hall-of-fame",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/35/"
+    },
+    {
+      "name": "story-progress-none",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/36/"
+    },
+    {
+      "name": "story-progress-national-dex",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/37/"
+    },
+    {
+      "name": "story-progress-cure-eldritch-nightmares",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/41/"
+    },
+    {
+      "name": "story-progress-defeat-jupiter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/51/"
+    },
+    {
+      "name": "story-progress-beat-team-galactic-iron-island",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/52/"
+    },
+    {
+      "name": "story-progress-zephyr-badge",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/54/"
+    },
+    {
+      "name": "story-progress-beat-red",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/55/"
+    },
+    {
+      "name": "story-progress-receive-tm-from-claire",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/57/"
+    },
+    {
+      "name": "story-progress-defeat-mars",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/67/"
+    },
+    {
+      "name": "story-progress-returned-machine-part",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/70/"
+    },
+    {
+      "name": "story-progress-juniper-cave-of-being",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/75/"
+    },
+    {
+      "name": "story-progress-quake-badge",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/77/"
+    },
+    {
+      "name": "defeated-ghetsis",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/81/"
+    },
+    {
+      "name": "story-progress-defeated-groudon-or-kyogre",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/91/"
+    },
+    {
+      "name": "story-progress-finished-looker-sidequest",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/100/"
+    },
+    {
+      "name": "story-progress-beat-olivias-trial",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/101/"
+    }
+  ]
+}

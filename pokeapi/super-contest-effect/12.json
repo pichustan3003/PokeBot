@@ -1,0 +1,47 @@
+{
+  "appeal": 2,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Makes the order of contestants random in the next turn.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    }
+  ],
+  "id": 14,
+  "moves": [
+    {
+      "name": "metronome",
+      "url": "https://pokeapi.co/api/v2/move/118/"
+    },
+    {
+      "name": "follow-me",
+      "url": "https://pokeapi.co/api/v2/move/266/"
+    },
+    {
+      "name": "nature-power",
+      "url": "https://pokeapi.co/api/v2/move/267/"
+    },
+    {
+      "name": "assist",
+      "url": "https://pokeapi.co/api/v2/move/274/"
+    },
+    {
+      "name": "secret-power",
+      "url": "https://pokeapi.co/api/v2/move/290/"
+    },
+    {
+      "name": "teeter-dance",
+      "url": "https://pokeapi.co/api/v2/move/298/"
+    },
+    {
+      "name": "trick-room",
+      "url": "https://pokeapi.co/api/v2/move/433/"
+    },
+    {
+      "name": "judgment",
+      "url": "https://pokeapi.co/api/v2/move/449/"
+    }
+  ]
+}

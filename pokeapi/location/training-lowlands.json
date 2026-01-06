@@ -1,0 +1,35 @@
+{
+  "areas": [
+    {
+      "name": "training-lowlands-main",
+      "url": "https://pokeapi.co/api/v2/location-area/936/"
+    },
+    {
+      "name": "training-lowlands-beach",
+      "url": "https://pokeapi.co/api/v2/location-area/937/"
+    }
+  ],
+  "game_indices": [],
+  "id": 943,
+  "name": "training-lowlands",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Flei\u00dfebene"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Training Lowlands"
+    }
+  ],
+  "region": {
+    "name": "galar",
+    "url": "https://pokeapi.co/api/v2/region/8/"
+  }
+}

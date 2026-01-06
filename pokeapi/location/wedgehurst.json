@@ -1,0 +1,31 @@
+{
+  "areas": [
+    {
+      "name": "wedgehurst-area",
+      "url": "https://pokeapi.co/api/v2/location-area/942/"
+    }
+  ],
+  "game_indices": [],
+  "id": 948,
+  "name": "wedgehurst",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Brassbury"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Wedgehurst"
+    }
+  ],
+  "region": {
+    "name": "galar",
+    "url": "https://pokeapi.co/api/v2/region/8/"
+  }
+}

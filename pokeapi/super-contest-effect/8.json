@@ -1,0 +1,59 @@
+{
+  "appeal": 2,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Lowers the Voltage of all Judges by one each.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    }
+  ],
+  "id": 10,
+  "moves": [
+    {
+      "name": "screech",
+      "url": "https://pokeapi.co/api/v2/move/103/"
+    },
+    {
+      "name": "smokescreen",
+      "url": "https://pokeapi.co/api/v2/move/108/"
+    },
+    {
+      "name": "confuse-ray",
+      "url": "https://pokeapi.co/api/v2/move/109/"
+    },
+    {
+      "name": "spore",
+      "url": "https://pokeapi.co/api/v2/move/147/"
+    },
+    {
+      "name": "flash",
+      "url": "https://pokeapi.co/api/v2/move/148/"
+    },
+    {
+      "name": "perish-song",
+      "url": "https://pokeapi.co/api/v2/move/195/"
+    },
+    {
+      "name": "mean-look",
+      "url": "https://pokeapi.co/api/v2/move/212/"
+    },
+    {
+      "name": "pain-split",
+      "url": "https://pokeapi.co/api/v2/move/220/"
+    },
+    {
+      "name": "uproar",
+      "url": "https://pokeapi.co/api/v2/move/253/"
+    },
+    {
+      "name": "grudge",
+      "url": "https://pokeapi.co/api/v2/move/288/"
+    },
+    {
+      "name": "metal-sound",
+      "url": "https://pokeapi.co/api/v2/move/319/"
+    }
+  ]
+}

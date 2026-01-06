@@ -1,0 +1,26 @@
+{
+  "areas": [],
+  "game_indices": [],
+  "id": 1068,
+  "name": "mossfell-confluence",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "M\u00fcndungsufer"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Mossfell Confluence"
+    }
+  ],
+  "region": {
+    "name": "paldea",
+    "url": "https://pokeapi.co/api/v2/region/10/"
+  }
+}

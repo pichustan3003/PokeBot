@@ -1,0 +1,203 @@
+{
+  "appeal": 2,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Earn +2 if the Pok\u00e9mon performs first in the turn.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    }
+  ],
+  "id": 17,
+  "moves": [
+    {
+      "name": "fire-punch",
+      "url": "https://pokeapi.co/api/v2/move/7/"
+    },
+    {
+      "name": "ice-punch",
+      "url": "https://pokeapi.co/api/v2/move/8/"
+    },
+    {
+      "name": "thunder-punch",
+      "url": "https://pokeapi.co/api/v2/move/9/"
+    },
+    {
+      "name": "flamethrower",
+      "url": "https://pokeapi.co/api/v2/move/53/"
+    },
+    {
+      "name": "hydro-pump",
+      "url": "https://pokeapi.co/api/v2/move/56/"
+    },
+    {
+      "name": "surf",
+      "url": "https://pokeapi.co/api/v2/move/57/"
+    },
+    {
+      "name": "ice-beam",
+      "url": "https://pokeapi.co/api/v2/move/58/"
+    },
+    {
+      "name": "blizzard",
+      "url": "https://pokeapi.co/api/v2/move/59/"
+    },
+    {
+      "name": "psybeam",
+      "url": "https://pokeapi.co/api/v2/move/60/"
+    },
+    {
+      "name": "aurora-beam",
+      "url": "https://pokeapi.co/api/v2/move/62/"
+    },
+    {
+      "name": "thunderbolt",
+      "url": "https://pokeapi.co/api/v2/move/85/"
+    },
+    {
+      "name": "thunder",
+      "url": "https://pokeapi.co/api/v2/move/87/"
+    },
+    {
+      "name": "psychic",
+      "url": "https://pokeapi.co/api/v2/move/94/"
+    },
+    {
+      "name": "fire-blast",
+      "url": "https://pokeapi.co/api/v2/move/126/"
+    },
+    {
+      "name": "swift",
+      "url": "https://pokeapi.co/api/v2/move/129/"
+    },
+    {
+      "name": "return",
+      "url": "https://pokeapi.co/api/v2/move/216/"
+    },
+    {
+      "name": "dragon-breath",
+      "url": "https://pokeapi.co/api/v2/move/225/"
+    },
+    {
+      "name": "rapid-spin",
+      "url": "https://pokeapi.co/api/v2/move/229/"
+    },
+    {
+      "name": "shadow-ball",
+      "url": "https://pokeapi.co/api/v2/move/247/"
+    },
+    {
+      "name": "future-sight",
+      "url": "https://pokeapi.co/api/v2/move/248/"
+    },
+    {
+      "name": "fake-out",
+      "url": "https://pokeapi.co/api/v2/move/252/"
+    },
+    {
+      "name": "heat-wave",
+      "url": "https://pokeapi.co/api/v2/move/257/"
+    },
+    {
+      "name": "will-o-wisp",
+      "url": "https://pokeapi.co/api/v2/move/261/"
+    },
+    {
+      "name": "blaze-kick",
+      "url": "https://pokeapi.co/api/v2/move/299/"
+    },
+    {
+      "name": "shadow-punch",
+      "url": "https://pokeapi.co/api/v2/move/325/"
+    },
+    {
+      "name": "extrasensory",
+      "url": "https://pokeapi.co/api/v2/move/326/"
+    },
+    {
+      "name": "sky-uppercut",
+      "url": "https://pokeapi.co/api/v2/move/327/"
+    },
+    {
+      "name": "aerial-ace",
+      "url": "https://pokeapi.co/api/v2/move/332/"
+    },
+    {
+      "name": "dragon-claw",
+      "url": "https://pokeapi.co/api/v2/move/337/"
+    },
+    {
+      "name": "magical-leaf",
+      "url": "https://pokeapi.co/api/v2/move/345/"
+    },
+    {
+      "name": "leaf-blade",
+      "url": "https://pokeapi.co/api/v2/move/348/"
+    },
+    {
+      "name": "shock-wave",
+      "url": "https://pokeapi.co/api/v2/move/351/"
+    },
+    {
+      "name": "water-pulse",
+      "url": "https://pokeapi.co/api/v2/move/352/"
+    },
+    {
+      "name": "doom-desire",
+      "url": "https://pokeapi.co/api/v2/move/353/"
+    },
+    {
+      "name": "aura-sphere",
+      "url": "https://pokeapi.co/api/v2/move/396/"
+    },
+    {
+      "name": "dark-pulse",
+      "url": "https://pokeapi.co/api/v2/move/399/"
+    },
+    {
+      "name": "air-slash",
+      "url": "https://pokeapi.co/api/v2/move/403/"
+    },
+    {
+      "name": "x-scissor",
+      "url": "https://pokeapi.co/api/v2/move/404/"
+    },
+    {
+      "name": "focus-blast",
+      "url": "https://pokeapi.co/api/v2/move/411/"
+    },
+    {
+      "name": "energy-ball",
+      "url": "https://pokeapi.co/api/v2/move/412/"
+    },
+    {
+      "name": "shadow-claw",
+      "url": "https://pokeapi.co/api/v2/move/421/"
+    },
+    {
+      "name": "psycho-cut",
+      "url": "https://pokeapi.co/api/v2/move/427/"
+    },
+    {
+      "name": "mirror-shot",
+      "url": "https://pokeapi.co/api/v2/move/429/"
+    },
+    {
+      "name": "flash-cannon",
+      "url": "https://pokeapi.co/api/v2/move/430/"
+    },
+    {
+      "name": "discharge",
+      "url": "https://pokeapi.co/api/v2/move/435/"
+    },
+    {
+      "name": "lava-plume",
+      "url": "https://pokeapi.co/api/v2/move/436/"
+    },
+    {
+      "name": "charge-beam",
+      "url": "https://pokeapi.co/api/v2/move/451/"
+    }
+  ]
+}

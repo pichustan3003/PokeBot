@@ -1,0 +1,175 @@
+{
+  "id": 10,
+  "items": [
+    {
+      "name": "sun-stone",
+      "url": "https://pokeapi.co/api/v2/item/80/"
+    },
+    {
+      "name": "moon-stone",
+      "url": "https://pokeapi.co/api/v2/item/81/"
+    },
+    {
+      "name": "fire-stone",
+      "url": "https://pokeapi.co/api/v2/item/82/"
+    },
+    {
+      "name": "thunder-stone",
+      "url": "https://pokeapi.co/api/v2/item/83/"
+    },
+    {
+      "name": "water-stone",
+      "url": "https://pokeapi.co/api/v2/item/84/"
+    },
+    {
+      "name": "leaf-stone",
+      "url": "https://pokeapi.co/api/v2/item/85/"
+    },
+    {
+      "name": "shiny-stone",
+      "url": "https://pokeapi.co/api/v2/item/107/"
+    },
+    {
+      "name": "dusk-stone",
+      "url": "https://pokeapi.co/api/v2/item/108/"
+    },
+    {
+      "name": "dawn-stone",
+      "url": "https://pokeapi.co/api/v2/item/109/"
+    },
+    {
+      "name": "oval-stone",
+      "url": "https://pokeapi.co/api/v2/item/110/"
+    },
+    {
+      "name": "dragon-scale",
+      "url": "https://pokeapi.co/api/v2/item/212/"
+    },
+    {
+      "name": "up-grade",
+      "url": "https://pokeapi.co/api/v2/item/229/"
+    },
+    {
+      "name": "protector",
+      "url": "https://pokeapi.co/api/v2/item/298/"
+    },
+    {
+      "name": "electirizer",
+      "url": "https://pokeapi.co/api/v2/item/299/"
+    },
+    {
+      "name": "magmarizer",
+      "url": "https://pokeapi.co/api/v2/item/300/"
+    },
+    {
+      "name": "dubious-disc",
+      "url": "https://pokeapi.co/api/v2/item/301/"
+    },
+    {
+      "name": "reaper-cloth",
+      "url": "https://pokeapi.co/api/v2/item/302/"
+    },
+    {
+      "name": "prism-scale",
+      "url": "https://pokeapi.co/api/v2/item/580/"
+    },
+    {
+      "name": "whipped-dream",
+      "url": "https://pokeapi.co/api/v2/item/686/"
+    },
+    {
+      "name": "sachet",
+      "url": "https://pokeapi.co/api/v2/item/687/"
+    },
+    {
+      "name": "ice-stone",
+      "url": "https://pokeapi.co/api/v2/item/885/"
+    },
+    {
+      "name": "strawberry-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1167/"
+    },
+    {
+      "name": "love-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1168/"
+    },
+    {
+      "name": "berry-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1169/"
+    },
+    {
+      "name": "clover-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1170/"
+    },
+    {
+      "name": "flower-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1171/"
+    },
+    {
+      "name": "star-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1172/"
+    },
+    {
+      "name": "ribbon-sweet",
+      "url": "https://pokeapi.co/api/v2/item/1173/"
+    },
+    {
+      "name": "sweet-apple",
+      "url": "https://pokeapi.co/api/v2/item/1174/"
+    },
+    {
+      "name": "tart-apple",
+      "url": "https://pokeapi.co/api/v2/item/1175/"
+    },
+    {
+      "name": "cracked-pot",
+      "url": "https://pokeapi.co/api/v2/item/1311/"
+    },
+    {
+      "name": "chipped-pot",
+      "url": "https://pokeapi.co/api/v2/item/1312/"
+    },
+    {
+      "name": "malicious-armor",
+      "url": "https://pokeapi.co/api/v2/item/1677/"
+    },
+    {
+      "name": "syrupy-apple",
+      "url": "https://pokeapi.co/api/v2/item/2109/"
+    },
+    {
+      "name": "unremarkable-teacup",
+      "url": "https://pokeapi.co/api/v2/item/2110/"
+    },
+    {
+      "name": "masterpiece-teacup",
+      "url": "https://pokeapi.co/api/v2/item/2111/"
+    },
+    {
+      "name": "linking-cord",
+      "url": "https://pokeapi.co/api/v2/item/2160/"
+    },
+    {
+      "name": "black-augurite",
+      "url": "https://pokeapi.co/api/v2/item/10001/"
+    },
+    {
+      "name": "peat-block",
+      "url": "https://pokeapi.co/api/v2/item/10002/"
+    }
+  ],
+  "name": "evolution",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Evolution"
+    }
+  ],
+  "pocket": {
+    "name": "misc",
+    "url": "https://pokeapi.co/api/v2/item-pocket/1/"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "categories": [
+    {
+      "name": "collectibles",
+      "url": "https://pokeapi.co/api/v2/item-category/9/"
+    },
+    {
+      "name": "evolution",
+      "url": "https://pokeapi.co/api/v2/item-category/10/"
+    },
+    {
+      "name": "spelunking",
+      "url": "https://pokeapi.co/api/v2/item-category/11/"
+    },
+    {
+      "name": "held-items",
+      "url": "https://pokeapi.co/api/v2/item-category/12/"
+    },
+    {
+      "name": "choice",
+      "url": "https://pokeapi.co/api/v2/item-category/13/"
+    },
+    {
+      "name": "effort-training",
+      "url": "https://pokeapi.co/api/v2/item-category/14/"
+    },
+    {
+      "name": "bad-held-items",
+      "url": "https://pokeapi.co/api/v2/item-category/15/"
+    },
+    {
+      "name": "training",
+      "url": "https://pokeapi.co/api/v2/item-category/16/"
+    },
+    {
+      "name": "plates",
+      "url": "https://pokeapi.co/api/v2/item-category/17/"
+    },
+    {
+      "name": "species-specific",
+      "url": "https://pokeapi.co/api/v2/item-category/18/"
+    },
+    {
+      "name": "type-enhancement",
+      "url": "https://pokeapi.co/api/v2/item-category/19/"
+    },
+    {
+      "name": "loot",
+      "url": "https://pokeapi.co/api/v2/item-category/24/"
+    },
+    {
+      "name": "mulch",
+      "url": "https://pokeapi.co/api/v2/item-category/32/"
+    },
+    {
+      "name": "dex-completion",
+      "url": "https://pokeapi.co/api/v2/item-category/35/"
+    },
+    {
+      "name": "scarves",
+      "url": "https://pokeapi.co/api/v2/item-category/36/"
+    },
+    {
+      "name": "jewels",
+      "url": "https://pokeapi.co/api/v2/item-category/42/"
+    },
+    {
+      "name": "mega-stones",
+      "url": "https://pokeapi.co/api/v2/item-category/44/"
+    },
+    {
+      "name": "memories",
+      "url": "https://pokeapi.co/api/v2/item-category/45/"
+    },
+    {
+      "name": "species-candies",
+      "url": "https://pokeapi.co/api/v2/item-category/47/"
+    },
+    {
+      "name": "dynamax-crystals",
+      "url": "https://pokeapi.co/api/v2/item-category/49/"
+    },
+    {
+      "name": "curry-ingredients",
+      "url": "https://pokeapi.co/api/v2/item-category/51/"
+    },
+    {
+      "name": "tera-shard",
+      "url": "https://pokeapi.co/api/v2/item-category/52/"
+    },
+    {
+      "name": "sandwich-ingredients",
+      "url": "https://pokeapi.co/api/v2/item-category/53/"
+    },
+    {
+      "name": "tm-materials",
+      "url": "https://pokeapi.co/api/v2/item-category/54/"
+    },
+    {
+      "name": "picnic",
+      "url": "https://pokeapi.co/api/v2/item-category/55/"
+    }
+  ],
+  "id": 1,
+  "name": "misc",
+  "names": [
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "https://pokeapi.co/api/v2/language/4/"
+      },
+      "name": "\u9053\u5177"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Objets"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "https://pokeapi.co/api/v2/language/7/"
+      },
+      "name": "Objetos"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Items"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "https://pokeapi.co/api/v2/language/12/"
+      },
+      "name": "\u9053\u5177"
+    }
+  ]
+}

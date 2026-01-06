@@ -1,0 +1,62 @@
+{
+  "descriptions": [
+    {
+      "description": "Ein zuf\u00e4lliges gegnerische Pok\u00e9mon.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      }
+    },
+    {
+      "description": "One opposing Pok\u00e9mon, selected at random.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    }
+  ],
+  "id": 8,
+  "moves": [
+    {
+      "name": "thrash",
+      "url": "https://pokeapi.co/api/v2/move/37/"
+    },
+    {
+      "name": "petal-dance",
+      "url": "https://pokeapi.co/api/v2/move/80/"
+    },
+    {
+      "name": "struggle",
+      "url": "https://pokeapi.co/api/v2/move/165/"
+    },
+    {
+      "name": "outrage",
+      "url": "https://pokeapi.co/api/v2/move/200/"
+    },
+    {
+      "name": "uproar",
+      "url": "https://pokeapi.co/api/v2/move/253/"
+    },
+    {
+      "name": "raging-fury",
+      "url": "https://pokeapi.co/api/v2/move/833/"
+    }
+  ],
+  "name": "random-opponent",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Zuf\u00e4lliger Gegner"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Random opponent"
+    }
+  ]
+}

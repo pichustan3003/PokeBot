@@ -1,0 +1,71 @@
+{
+  "id": 11,
+  "name": "item",
+  "names": [],
+  "values": [
+    {
+      "name": "item-none",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/43/"
+    },
+    {
+      "name": "item-adamant-orb",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/44/"
+    },
+    {
+      "name": "item-lustrous-orb",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/45/"
+    },
+    {
+      "name": "item-helix-fossil",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/46/"
+    },
+    {
+      "name": "item-dome-fossil",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/47/"
+    },
+    {
+      "name": "item-old-amber",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/48/"
+    },
+    {
+      "name": "item-root-fossil",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/49/"
+    },
+    {
+      "name": "item-claw-fossil",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/50/"
+    },
+    {
+      "name": "item-odd-keystone",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/68/"
+    },
+    {
+      "name": "item-ice-key",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/73/"
+    },
+    {
+      "name": "item-iron-key",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/74/"
+    },
+    {
+      "name": "item-lunar-wing",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/76/"
+    },
+    {
+      "name": "item-light-stone",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/78/"
+    },
+    {
+      "name": "item-dark-stone",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/79/"
+    },
+    {
+      "name": "item-tidal-bell",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/89/"
+    },
+    {
+      "name": "item-clear-bell",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/90/"
+    }
+  ]
+}

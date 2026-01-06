@@ -1,0 +1,207 @@
+{
+  "id": 44,
+  "items": [
+    {
+      "name": "gengarite",
+      "url": "https://pokeapi.co/api/v2/item/695/"
+    },
+    {
+      "name": "gardevoirite",
+      "url": "https://pokeapi.co/api/v2/item/696/"
+    },
+    {
+      "name": "ampharosite",
+      "url": "https://pokeapi.co/api/v2/item/697/"
+    },
+    {
+      "name": "venusaurite",
+      "url": "https://pokeapi.co/api/v2/item/698/"
+    },
+    {
+      "name": "charizardite-x",
+      "url": "https://pokeapi.co/api/v2/item/699/"
+    },
+    {
+      "name": "blastoisinite",
+      "url": "https://pokeapi.co/api/v2/item/700/"
+    },
+    {
+      "name": "mewtwonite-x",
+      "url": "https://pokeapi.co/api/v2/item/701/"
+    },
+    {
+      "name": "mewtwonite-y",
+      "url": "https://pokeapi.co/api/v2/item/702/"
+    },
+    {
+      "name": "blazikenite",
+      "url": "https://pokeapi.co/api/v2/item/703/"
+    },
+    {
+      "name": "medichamite",
+      "url": "https://pokeapi.co/api/v2/item/704/"
+    },
+    {
+      "name": "houndoominite",
+      "url": "https://pokeapi.co/api/v2/item/705/"
+    },
+    {
+      "name": "aggronite",
+      "url": "https://pokeapi.co/api/v2/item/706/"
+    },
+    {
+      "name": "banettite",
+      "url": "https://pokeapi.co/api/v2/item/707/"
+    },
+    {
+      "name": "tyranitarite",
+      "url": "https://pokeapi.co/api/v2/item/708/"
+    },
+    {
+      "name": "scizorite",
+      "url": "https://pokeapi.co/api/v2/item/709/"
+    },
+    {
+      "name": "pinsirite",
+      "url": "https://pokeapi.co/api/v2/item/710/"
+    },
+    {
+      "name": "aerodactylite",
+      "url": "https://pokeapi.co/api/v2/item/711/"
+    },
+    {
+      "name": "lucarionite",
+      "url": "https://pokeapi.co/api/v2/item/712/"
+    },
+    {
+      "name": "abomasite",
+      "url": "https://pokeapi.co/api/v2/item/713/"
+    },
+    {
+      "name": "kangaskhanite",
+      "url": "https://pokeapi.co/api/v2/item/714/"
+    },
+    {
+      "name": "gyaradosite",
+      "url": "https://pokeapi.co/api/v2/item/715/"
+    },
+    {
+      "name": "absolite",
+      "url": "https://pokeapi.co/api/v2/item/716/"
+    },
+    {
+      "name": "charizardite-y",
+      "url": "https://pokeapi.co/api/v2/item/717/"
+    },
+    {
+      "name": "alakazite",
+      "url": "https://pokeapi.co/api/v2/item/718/"
+    },
+    {
+      "name": "heracronite",
+      "url": "https://pokeapi.co/api/v2/item/719/"
+    },
+    {
+      "name": "mawilite",
+      "url": "https://pokeapi.co/api/v2/item/720/"
+    },
+    {
+      "name": "manectite",
+      "url": "https://pokeapi.co/api/v2/item/721/"
+    },
+    {
+      "name": "garchompite",
+      "url": "https://pokeapi.co/api/v2/item/722/"
+    },
+    {
+      "name": "latiasite",
+      "url": "https://pokeapi.co/api/v2/item/760/"
+    },
+    {
+      "name": "latiosite",
+      "url": "https://pokeapi.co/api/v2/item/761/"
+    },
+    {
+      "name": "swampertite",
+      "url": "https://pokeapi.co/api/v2/item/793/"
+    },
+    {
+      "name": "sceptilite",
+      "url": "https://pokeapi.co/api/v2/item/794/"
+    },
+    {
+      "name": "sablenite",
+      "url": "https://pokeapi.co/api/v2/item/795/"
+    },
+    {
+      "name": "altarianite",
+      "url": "https://pokeapi.co/api/v2/item/796/"
+    },
+    {
+      "name": "galladite",
+      "url": "https://pokeapi.co/api/v2/item/797/"
+    },
+    {
+      "name": "audinite",
+      "url": "https://pokeapi.co/api/v2/item/798/"
+    },
+    {
+      "name": "metagrossite",
+      "url": "https://pokeapi.co/api/v2/item/799/"
+    },
+    {
+      "name": "sharpedonite",
+      "url": "https://pokeapi.co/api/v2/item/800/"
+    },
+    {
+      "name": "slowbronite",
+      "url": "https://pokeapi.co/api/v2/item/801/"
+    },
+    {
+      "name": "steelixite",
+      "url": "https://pokeapi.co/api/v2/item/802/"
+    },
+    {
+      "name": "pidgeotite",
+      "url": "https://pokeapi.co/api/v2/item/803/"
+    },
+    {
+      "name": "glalitite",
+      "url": "https://pokeapi.co/api/v2/item/804/"
+    },
+    {
+      "name": "diancite",
+      "url": "https://pokeapi.co/api/v2/item/805/"
+    },
+    {
+      "name": "cameruptite",
+      "url": "https://pokeapi.co/api/v2/item/808/"
+    },
+    {
+      "name": "lopunnite",
+      "url": "https://pokeapi.co/api/v2/item/809/"
+    },
+    {
+      "name": "salamencite",
+      "url": "https://pokeapi.co/api/v2/item/810/"
+    },
+    {
+      "name": "beedrillite",
+      "url": "https://pokeapi.co/api/v2/item/811/"
+    }
+  ],
+  "name": "mega-stones",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Mega Stones"
+    }
+  ],
+  "pocket": {
+    "name": "misc",
+    "url": "https://pokeapi.co/api/v2/item-pocket/1/"
+  }
+}

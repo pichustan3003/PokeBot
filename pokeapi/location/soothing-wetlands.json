@@ -1,0 +1,31 @@
+{
+  "areas": [
+    {
+      "name": "soothing-wetlands-area",
+      "url": "https://pokeapi.co/api/v2/location-area/921/"
+    }
+  ],
+  "game_indices": [],
+  "id": 932,
+  "name": "soothing-wetlands",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Balsamsumpf"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Soothing Wetlands"
+    }
+  ],
+  "region": {
+    "name": "galar",
+    "url": "https://pokeapi.co/api/v2/region/8/"
+  }
+}

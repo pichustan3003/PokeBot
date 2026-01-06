@@ -1,0 +1,907 @@
+{
+  "id": 54,
+  "items": [
+    {
+      "name": "venonat-fang",
+      "url": "https://pokeapi.co/api/v2/item/1762/"
+    },
+    {
+      "name": "diglett-dirt",
+      "url": "https://pokeapi.co/api/v2/item/1763/"
+    },
+    {
+      "name": "meowth-fur",
+      "url": "https://pokeapi.co/api/v2/item/1764/"
+    },
+    {
+      "name": "psyduck-down",
+      "url": "https://pokeapi.co/api/v2/item/1765/"
+    },
+    {
+      "name": "mankey-fur",
+      "url": "https://pokeapi.co/api/v2/item/1766/"
+    },
+    {
+      "name": "growlithe-fur",
+      "url": "https://pokeapi.co/api/v2/item/1767/"
+    },
+    {
+      "name": "slowpoke-claw",
+      "url": "https://pokeapi.co/api/v2/item/1768/"
+    },
+    {
+      "name": "magnemite-screw",
+      "url": "https://pokeapi.co/api/v2/item/1769/"
+    },
+    {
+      "name": "grimer-toxin",
+      "url": "https://pokeapi.co/api/v2/item/1770/"
+    },
+    {
+      "name": "shellder-pearl",
+      "url": "https://pokeapi.co/api/v2/item/1771/"
+    },
+    {
+      "name": "gastly-gas",
+      "url": "https://pokeapi.co/api/v2/item/1772/"
+    },
+    {
+      "name": "drowzee-fur",
+      "url": "https://pokeapi.co/api/v2/item/1773/"
+    },
+    {
+      "name": "voltorb-sparks",
+      "url": "https://pokeapi.co/api/v2/item/1774/"
+    },
+    {
+      "name": "scyther-claw",
+      "url": "https://pokeapi.co/api/v2/item/1775/"
+    },
+    {
+      "name": "tauros-hair",
+      "url": "https://pokeapi.co/api/v2/item/1776/"
+    },
+    {
+      "name": "magikarp-scales",
+      "url": "https://pokeapi.co/api/v2/item/1777/"
+    },
+    {
+      "name": "ditto-goo",
+      "url": "https://pokeapi.co/api/v2/item/1778/"
+    },
+    {
+      "name": "eevee-fur",
+      "url": "https://pokeapi.co/api/v2/item/1779/"
+    },
+    {
+      "name": "dratini-scales",
+      "url": "https://pokeapi.co/api/v2/item/1780/"
+    },
+    {
+      "name": "pichu-fur",
+      "url": "https://pokeapi.co/api/v2/item/1781/"
+    },
+    {
+      "name": "igglybuff-fluff",
+      "url": "https://pokeapi.co/api/v2/item/1782/"
+    },
+    {
+      "name": "mareep-wool",
+      "url": "https://pokeapi.co/api/v2/item/1783/"
+    },
+    {
+      "name": "hoppip-leaf",
+      "url": "https://pokeapi.co/api/v2/item/1784/"
+    },
+    {
+      "name": "sunkern-leaf",
+      "url": "https://pokeapi.co/api/v2/item/1785/"
+    },
+    {
+      "name": "murkrow-bauble",
+      "url": "https://pokeapi.co/api/v2/item/1786/"
+    },
+    {
+      "name": "misdreavus-tears",
+      "url": "https://pokeapi.co/api/v2/item/1787/"
+    },
+    {
+      "name": "girafarig-fur",
+      "url": "https://pokeapi.co/api/v2/item/1788/"
+    },
+    {
+      "name": "pineco-husk",
+      "url": "https://pokeapi.co/api/v2/item/1789/"
+    },
+    {
+      "name": "dunsparce-scales",
+      "url": "https://pokeapi.co/api/v2/item/1790/"
+    },
+    {
+      "name": "qwilfish-spines",
+      "url": "https://pokeapi.co/api/v2/item/1791/"
+    },
+    {
+      "name": "heracross-claw",
+      "url": "https://pokeapi.co/api/v2/item/1792/"
+    },
+    {
+      "name": "sneasel-claw",
+      "url": "https://pokeapi.co/api/v2/item/1793/"
+    },
+    {
+      "name": "teddiursa-claw",
+      "url": "https://pokeapi.co/api/v2/item/1794/"
+    },
+    {
+      "name": "delibird-parcel",
+      "url": "https://pokeapi.co/api/v2/item/1795/"
+    },
+    {
+      "name": "houndour-fang",
+      "url": "https://pokeapi.co/api/v2/item/1796/"
+    },
+    {
+      "name": "phanpy-nail",
+      "url": "https://pokeapi.co/api/v2/item/1797/"
+    },
+    {
+      "name": "stantler-hair",
+      "url": "https://pokeapi.co/api/v2/item/1798/"
+    },
+    {
+      "name": "larvitar-claw",
+      "url": "https://pokeapi.co/api/v2/item/1799/"
+    },
+    {
+      "name": "wingull-feather",
+      "url": "https://pokeapi.co/api/v2/item/1800/"
+    },
+    {
+      "name": "ralts-dust",
+      "url": "https://pokeapi.co/api/v2/item/1801/"
+    },
+    {
+      "name": "surskit-syrup",
+      "url": "https://pokeapi.co/api/v2/item/1802/"
+    },
+    {
+      "name": "shroomish-spores",
+      "url": "https://pokeapi.co/api/v2/item/1803/"
+    },
+    {
+      "name": "slakoth-fur",
+      "url": "https://pokeapi.co/api/v2/item/1804/"
+    },
+    {
+      "name": "makuhita-sweat",
+      "url": "https://pokeapi.co/api/v2/item/1805/"
+    },
+    {
+      "name": "azurill-fur",
+      "url": "https://pokeapi.co/api/v2/item/1806/"
+    },
+    {
+      "name": "sableye-gem",
+      "url": "https://pokeapi.co/api/v2/item/1807/"
+    },
+    {
+      "name": "meditite-sweat",
+      "url": "https://pokeapi.co/api/v2/item/1808/"
+    },
+    {
+      "name": "gulpin-mucus",
+      "url": "https://pokeapi.co/api/v2/item/1809/"
+    },
+    {
+      "name": "numel-lava",
+      "url": "https://pokeapi.co/api/v2/item/1810/"
+    },
+    {
+      "name": "torkoal-coal",
+      "url": "https://pokeapi.co/api/v2/item/1811/"
+    },
+    {
+      "name": "spoink-pearl",
+      "url": "https://pokeapi.co/api/v2/item/1812/"
+    },
+    {
+      "name": "cacnea-needle",
+      "url": "https://pokeapi.co/api/v2/item/1813/"
+    },
+    {
+      "name": "swablu-fluff",
+      "url": "https://pokeapi.co/api/v2/item/1814/"
+    },
+    {
+      "name": "zangoose-claw",
+      "url": "https://pokeapi.co/api/v2/item/1815/"
+    },
+    {
+      "name": "seviper-fang",
+      "url": "https://pokeapi.co/api/v2/item/1816/"
+    },
+    {
+      "name": "barboach-slime",
+      "url": "https://pokeapi.co/api/v2/item/1817/"
+    },
+    {
+      "name": "shuppet-scrap",
+      "url": "https://pokeapi.co/api/v2/item/1818/"
+    },
+    {
+      "name": "tropius-leaf",
+      "url": "https://pokeapi.co/api/v2/item/1819/"
+    },
+    {
+      "name": "snorunt-fur",
+      "url": "https://pokeapi.co/api/v2/item/1820/"
+    },
+    {
+      "name": "luvdisc-scales",
+      "url": "https://pokeapi.co/api/v2/item/1821/"
+    },
+    {
+      "name": "bagon-scales",
+      "url": "https://pokeapi.co/api/v2/item/1822/"
+    },
+    {
+      "name": "starly-feather",
+      "url": "https://pokeapi.co/api/v2/item/1823/"
+    },
+    {
+      "name": "kricketot-shell",
+      "url": "https://pokeapi.co/api/v2/item/1824/"
+    },
+    {
+      "name": "shinx-fang",
+      "url": "https://pokeapi.co/api/v2/item/1825/"
+    },
+    {
+      "name": "combee-honey",
+      "url": "https://pokeapi.co/api/v2/item/1826/"
+    },
+    {
+      "name": "pachirisu-fur",
+      "url": "https://pokeapi.co/api/v2/item/1827/"
+    },
+    {
+      "name": "buizel-fur",
+      "url": "https://pokeapi.co/api/v2/item/1828/"
+    },
+    {
+      "name": "shellos-mucus",
+      "url": "https://pokeapi.co/api/v2/item/1829/"
+    },
+    {
+      "name": "drifloon-gas",
+      "url": "https://pokeapi.co/api/v2/item/1830/"
+    },
+    {
+      "name": "stunky-fur",
+      "url": "https://pokeapi.co/api/v2/item/1831/"
+    },
+    {
+      "name": "bronzor-fragment",
+      "url": "https://pokeapi.co/api/v2/item/1832/"
+    },
+    {
+      "name": "bonsly-tears",
+      "url": "https://pokeapi.co/api/v2/item/1833/"
+    },
+    {
+      "name": "happiny-dust",
+      "url": "https://pokeapi.co/api/v2/item/1834/"
+    },
+    {
+      "name": "spiritomb-fragment",
+      "url": "https://pokeapi.co/api/v2/item/1835/"
+    },
+    {
+      "name": "gible-scales",
+      "url": "https://pokeapi.co/api/v2/item/1836/"
+    },
+    {
+      "name": "riolu-fur",
+      "url": "https://pokeapi.co/api/v2/item/1837/"
+    },
+    {
+      "name": "hippopotas-sand",
+      "url": "https://pokeapi.co/api/v2/item/1838/"
+    },
+    {
+      "name": "croagunk-poison",
+      "url": "https://pokeapi.co/api/v2/item/1839/"
+    },
+    {
+      "name": "finneon-scales",
+      "url": "https://pokeapi.co/api/v2/item/1840/"
+    },
+    {
+      "name": "snover-berries",
+      "url": "https://pokeapi.co/api/v2/item/1841/"
+    },
+    {
+      "name": "rotom-sparks",
+      "url": "https://pokeapi.co/api/v2/item/1842/"
+    },
+    {
+      "name": "petilil-leaf",
+      "url": "https://pokeapi.co/api/v2/item/1843/"
+    },
+    {
+      "name": "basculin-fang",
+      "url": "https://pokeapi.co/api/v2/item/1844/"
+    },
+    {
+      "name": "sandile-claw",
+      "url": "https://pokeapi.co/api/v2/item/1845/"
+    },
+    {
+      "name": "zorua-fur",
+      "url": "https://pokeapi.co/api/v2/item/1846/"
+    },
+    {
+      "name": "gothita-eyelash",
+      "url": "https://pokeapi.co/api/v2/item/1847/"
+    },
+    {
+      "name": "deerling-hair",
+      "url": "https://pokeapi.co/api/v2/item/1848/"
+    },
+    {
+      "name": "foongus-spores",
+      "url": "https://pokeapi.co/api/v2/item/1849/"
+    },
+    {
+      "name": "alomomola-mucus",
+      "url": "https://pokeapi.co/api/v2/item/1850/"
+    },
+    {
+      "name": "tynamo-slime",
+      "url": "https://pokeapi.co/api/v2/item/1851/"
+    },
+    {
+      "name": "axew-scales",
+      "url": "https://pokeapi.co/api/v2/item/1852/"
+    },
+    {
+      "name": "cubchoo-fur",
+      "url": "https://pokeapi.co/api/v2/item/1853/"
+    },
+    {
+      "name": "cryogonal-ice",
+      "url": "https://pokeapi.co/api/v2/item/1854/"
+    },
+    {
+      "name": "pawniard-blade",
+      "url": "https://pokeapi.co/api/v2/item/1855/"
+    },
+    {
+      "name": "rufflet-feather",
+      "url": "https://pokeapi.co/api/v2/item/1856/"
+    },
+    {
+      "name": "deino-scales",
+      "url": "https://pokeapi.co/api/v2/item/1857/"
+    },
+    {
+      "name": "larvesta-fuzz",
+      "url": "https://pokeapi.co/api/v2/item/1858/"
+    },
+    {
+      "name": "fletchling-feather",
+      "url": "https://pokeapi.co/api/v2/item/1859/"
+    },
+    {
+      "name": "scatterbug-powder",
+      "url": "https://pokeapi.co/api/v2/item/1860/"
+    },
+    {
+      "name": "litleo-tuft",
+      "url": "https://pokeapi.co/api/v2/item/1861/"
+    },
+    {
+      "name": "flab\u00e9b\u00e9-pollen",
+      "url": "https://pokeapi.co/api/v2/item/1862/"
+    },
+    {
+      "name": "skiddo-leaf",
+      "url": "https://pokeapi.co/api/v2/item/1863/"
+    },
+    {
+      "name": "skrelp-kelp",
+      "url": "https://pokeapi.co/api/v2/item/1864/"
+    },
+    {
+      "name": "clauncher-claw",
+      "url": "https://pokeapi.co/api/v2/item/1865/"
+    },
+    {
+      "name": "hawlucha-down",
+      "url": "https://pokeapi.co/api/v2/item/1866/"
+    },
+    {
+      "name": "dedenne-fur",
+      "url": "https://pokeapi.co/api/v2/item/1867/"
+    },
+    {
+      "name": "goomy-goo",
+      "url": "https://pokeapi.co/api/v2/item/1868/"
+    },
+    {
+      "name": "klefki-key",
+      "url": "https://pokeapi.co/api/v2/item/1869/"
+    },
+    {
+      "name": "bergmite-ice",
+      "url": "https://pokeapi.co/api/v2/item/1870/"
+    },
+    {
+      "name": "noibat-fur",
+      "url": "https://pokeapi.co/api/v2/item/1871/"
+    },
+    {
+      "name": "yungoos-fur",
+      "url": "https://pokeapi.co/api/v2/item/1872/"
+    },
+    {
+      "name": "crabrawler-shell",
+      "url": "https://pokeapi.co/api/v2/item/1873/"
+    },
+    {
+      "name": "oricorio-feather",
+      "url": "https://pokeapi.co/api/v2/item/1874/"
+    },
+    {
+      "name": "rockruff-rock",
+      "url": "https://pokeapi.co/api/v2/item/1875/"
+    },
+    {
+      "name": "mareanie-spike",
+      "url": "https://pokeapi.co/api/v2/item/1876/"
+    },
+    {
+      "name": "mudbray-mud",
+      "url": "https://pokeapi.co/api/v2/item/1877/"
+    },
+    {
+      "name": "fomantis-leaf",
+      "url": "https://pokeapi.co/api/v2/item/1878/"
+    },
+    {
+      "name": "salandit-gas",
+      "url": "https://pokeapi.co/api/v2/item/1879/"
+    },
+    {
+      "name": "bounsweet-sweat",
+      "url": "https://pokeapi.co/api/v2/item/1880/"
+    },
+    {
+      "name": "oranguru-fur",
+      "url": "https://pokeapi.co/api/v2/item/1881/"
+    },
+    {
+      "name": "passimian-fur",
+      "url": "https://pokeapi.co/api/v2/item/1882/"
+    },
+    {
+      "name": "sandygast-sand",
+      "url": "https://pokeapi.co/api/v2/item/1883/"
+    },
+    {
+      "name": "komala-claw",
+      "url": "https://pokeapi.co/api/v2/item/1884/"
+    },
+    {
+      "name": "mimikyu-scrap",
+      "url": "https://pokeapi.co/api/v2/item/1885/"
+    },
+    {
+      "name": "bruxish-tooth",
+      "url": "https://pokeapi.co/api/v2/item/1886/"
+    },
+    {
+      "name": "chewtle-claw",
+      "url": "https://pokeapi.co/api/v2/item/1887/"
+    },
+    {
+      "name": "skwovet-fur",
+      "url": "https://pokeapi.co/api/v2/item/1888/"
+    },
+    {
+      "name": "arrokuda-scales",
+      "url": "https://pokeapi.co/api/v2/item/1889/"
+    },
+    {
+      "name": "rookidee-feather",
+      "url": "https://pokeapi.co/api/v2/item/1890/"
+    },
+    {
+      "name": "toxel-sparks",
+      "url": "https://pokeapi.co/api/v2/item/1891/"
+    },
+    {
+      "name": "falinks-sweat",
+      "url": "https://pokeapi.co/api/v2/item/1892/"
+    },
+    {
+      "name": "cufant-tarnish",
+      "url": "https://pokeapi.co/api/v2/item/1893/"
+    },
+    {
+      "name": "rolycoly-coal",
+      "url": "https://pokeapi.co/api/v2/item/1894/"
+    },
+    {
+      "name": "silicobra-sand",
+      "url": "https://pokeapi.co/api/v2/item/1895/"
+    },
+    {
+      "name": "indeedee-fur",
+      "url": "https://pokeapi.co/api/v2/item/1896/"
+    },
+    {
+      "name": "pincurchin-spines",
+      "url": "https://pokeapi.co/api/v2/item/1897/"
+    },
+    {
+      "name": "snom-thread",
+      "url": "https://pokeapi.co/api/v2/item/1898/"
+    },
+    {
+      "name": "impidimp-hair",
+      "url": "https://pokeapi.co/api/v2/item/1899/"
+    },
+    {
+      "name": "applin-juice",
+      "url": "https://pokeapi.co/api/v2/item/1900/"
+    },
+    {
+      "name": "sinistea-chip",
+      "url": "https://pokeapi.co/api/v2/item/1901/"
+    },
+    {
+      "name": "hatenna-dust",
+      "url": "https://pokeapi.co/api/v2/item/1902/"
+    },
+    {
+      "name": "stonjourner-stone",
+      "url": "https://pokeapi.co/api/v2/item/1903/"
+    },
+    {
+      "name": "eiscue-down",
+      "url": "https://pokeapi.co/api/v2/item/1904/"
+    },
+    {
+      "name": "dreepy-powder",
+      "url": "https://pokeapi.co/api/v2/item/1905/"
+    },
+    {
+      "name": "lechonk-hair",
+      "url": "https://pokeapi.co/api/v2/item/1906/"
+    },
+    {
+      "name": "tarountula-thread",
+      "url": "https://pokeapi.co/api/v2/item/1907/"
+    },
+    {
+      "name": "nymble-claw",
+      "url": "https://pokeapi.co/api/v2/item/1908/"
+    },
+    {
+      "name": "rellor-mud",
+      "url": "https://pokeapi.co/api/v2/item/1909/"
+    },
+    {
+      "name": "greavard-wax",
+      "url": "https://pokeapi.co/api/v2/item/1910/"
+    },
+    {
+      "name": "flittle-down",
+      "url": "https://pokeapi.co/api/v2/item/1911/"
+    },
+    {
+      "name": "wiglett-sand",
+      "url": "https://pokeapi.co/api/v2/item/1912/"
+    },
+    {
+      "name": "dondozo-whisker",
+      "url": "https://pokeapi.co/api/v2/item/1913/"
+    },
+    {
+      "name": "veluza-fillet",
+      "url": "https://pokeapi.co/api/v2/item/1914/"
+    },
+    {
+      "name": "finizen-mucus",
+      "url": "https://pokeapi.co/api/v2/item/1915/"
+    },
+    {
+      "name": "smoliv-oil",
+      "url": "https://pokeapi.co/api/v2/item/1916/"
+    },
+    {
+      "name": "capsakid-seed",
+      "url": "https://pokeapi.co/api/v2/item/1917/"
+    },
+    {
+      "name": "tadbulb-mucus",
+      "url": "https://pokeapi.co/api/v2/item/1918/"
+    },
+    {
+      "name": "varoom-fume",
+      "url": "https://pokeapi.co/api/v2/item/1919/"
+    },
+    {
+      "name": "orthworm-tarnish",
+      "url": "https://pokeapi.co/api/v2/item/1920/"
+    },
+    {
+      "name": "tandemaus-fur",
+      "url": "https://pokeapi.co/api/v2/item/1921/"
+    },
+    {
+      "name": "cetoddle-grease",
+      "url": "https://pokeapi.co/api/v2/item/1922/"
+    },
+    {
+      "name": "frigibax-scales",
+      "url": "https://pokeapi.co/api/v2/item/1923/"
+    },
+    {
+      "name": "tatsugiri-scales",
+      "url": "https://pokeapi.co/api/v2/item/1924/"
+    },
+    {
+      "name": "cyclizar-scales",
+      "url": "https://pokeapi.co/api/v2/item/1925/"
+    },
+    {
+      "name": "pawmi-fur",
+      "url": "https://pokeapi.co/api/v2/item/1926/"
+    },
+    {
+      "name": "wattrel-feather",
+      "url": "https://pokeapi.co/api/v2/item/1927/"
+    },
+    {
+      "name": "bombirdier-feather",
+      "url": "https://pokeapi.co/api/v2/item/1928/"
+    },
+    {
+      "name": "squawkabilly-feather",
+      "url": "https://pokeapi.co/api/v2/item/1929/"
+    },
+    {
+      "name": "flamigo-down",
+      "url": "https://pokeapi.co/api/v2/item/1930/"
+    },
+    {
+      "name": "klawf-claw",
+      "url": "https://pokeapi.co/api/v2/item/1931/"
+    },
+    {
+      "name": "nacli-salt",
+      "url": "https://pokeapi.co/api/v2/item/1932/"
+    },
+    {
+      "name": "glimmet-crystal",
+      "url": "https://pokeapi.co/api/v2/item/1933/"
+    },
+    {
+      "name": "shroodle-ink",
+      "url": "https://pokeapi.co/api/v2/item/1934/"
+    },
+    {
+      "name": "fidough-fur",
+      "url": "https://pokeapi.co/api/v2/item/1935/"
+    },
+    {
+      "name": "maschiff-fang",
+      "url": "https://pokeapi.co/api/v2/item/1936/"
+    },
+    {
+      "name": "bramblin-twig",
+      "url": "https://pokeapi.co/api/v2/item/1937/"
+    },
+    {
+      "name": "gimmighoul-coin",
+      "url": "https://pokeapi.co/api/v2/item/1938/"
+    },
+    {
+      "name": "tinkatink-hair",
+      "url": "https://pokeapi.co/api/v2/item/1939/"
+    },
+    {
+      "name": "charcadet-soot",
+      "url": "https://pokeapi.co/api/v2/item/1940/"
+    },
+    {
+      "name": "toedscool-flaps",
+      "url": "https://pokeapi.co/api/v2/item/1941/"
+    },
+    {
+      "name": "wooper-slime",
+      "url": "https://pokeapi.co/api/v2/item/1942/"
+    },
+    {
+      "name": "ekans-fang",
+      "url": "https://pokeapi.co/api/v2/item/2119/"
+    },
+    {
+      "name": "sandshrew-claw",
+      "url": "https://pokeapi.co/api/v2/item/2120/"
+    },
+    {
+      "name": "cleffa-fur",
+      "url": "https://pokeapi.co/api/v2/item/2121/"
+    },
+    {
+      "name": "vulpix-fur",
+      "url": "https://pokeapi.co/api/v2/item/2122/"
+    },
+    {
+      "name": "poliwag-slime",
+      "url": "https://pokeapi.co/api/v2/item/2123/"
+    },
+    {
+      "name": "bellsprout-vine",
+      "url": "https://pokeapi.co/api/v2/item/2124/"
+    },
+    {
+      "name": "geodude-fragment",
+      "url": "https://pokeapi.co/api/v2/item/2125/"
+    },
+    {
+      "name": "koffing-gas",
+      "url": "https://pokeapi.co/api/v2/item/2126/"
+    },
+    {
+      "name": "munchlax-fang",
+      "url": "https://pokeapi.co/api/v2/item/2127/"
+    },
+    {
+      "name": "sentret-fur",
+      "url": "https://pokeapi.co/api/v2/item/2128/"
+    },
+    {
+      "name": "hoothoot-feather",
+      "url": "https://pokeapi.co/api/v2/item/2129/"
+    },
+    {
+      "name": "spinarak-thread",
+      "url": "https://pokeapi.co/api/v2/item/2130/"
+    },
+    {
+      "name": "aipom-hair",
+      "url": "https://pokeapi.co/api/v2/item/2131/"
+    },
+    {
+      "name": "yanma-spike",
+      "url": "https://pokeapi.co/api/v2/item/2132/"
+    },
+    {
+      "name": "gligar-fang",
+      "url": "https://pokeapi.co/api/v2/item/2133/"
+    },
+    {
+      "name": "slugma-lava",
+      "url": "https://pokeapi.co/api/v2/item/2134/"
+    },
+    {
+      "name": "swinub-hair",
+      "url": "https://pokeapi.co/api/v2/item/2135/"
+    },
+    {
+      "name": "poochyena-fang",
+      "url": "https://pokeapi.co/api/v2/item/2136/"
+    },
+    {
+      "name": "lotad-leaf",
+      "url": "https://pokeapi.co/api/v2/item/2137/"
+    },
+    {
+      "name": "seedot-stem",
+      "url": "https://pokeapi.co/api/v2/item/2138/"
+    },
+    {
+      "name": "nosepass-fragment",
+      "url": "https://pokeapi.co/api/v2/item/2139/"
+    },
+    {
+      "name": "volbeat-fluid",
+      "url": "https://pokeapi.co/api/v2/item/2140/"
+    },
+    {
+      "name": "illumise-fluid",
+      "url": "https://pokeapi.co/api/v2/item/2141/"
+    },
+    {
+      "name": "corphish-shell",
+      "url": "https://pokeapi.co/api/v2/item/2142/"
+    },
+    {
+      "name": "feebas-scales",
+      "url": "https://pokeapi.co/api/v2/item/2143/"
+    },
+    {
+      "name": "duskull-fragment",
+      "url": "https://pokeapi.co/api/v2/item/2144/"
+    },
+    {
+      "name": "chingling-fragment",
+      "url": "https://pokeapi.co/api/v2/item/2145/"
+    },
+    {
+      "name": "timburr-sweat",
+      "url": "https://pokeapi.co/api/v2/item/2146/"
+    },
+    {
+      "name": "sewaddle-leaf",
+      "url": "https://pokeapi.co/api/v2/item/2147/"
+    },
+    {
+      "name": "ducklett-feather",
+      "url": "https://pokeapi.co/api/v2/item/2148/"
+    },
+    {
+      "name": "litwick-soot",
+      "url": "https://pokeapi.co/api/v2/item/2149/"
+    },
+    {
+      "name": "mienfoo-claw",
+      "url": "https://pokeapi.co/api/v2/item/2150/"
+    },
+    {
+      "name": "vullaby-feather",
+      "url": "https://pokeapi.co/api/v2/item/2151/"
+    },
+    {
+      "name": "carbink-jewel",
+      "url": "https://pokeapi.co/api/v2/item/2152/"
+    },
+    {
+      "name": "phantump-twig",
+      "url": "https://pokeapi.co/api/v2/item/2153/"
+    },
+    {
+      "name": "grubbin-thread",
+      "url": "https://pokeapi.co/api/v2/item/2154/"
+    },
+    {
+      "name": "cutiefly-powder",
+      "url": "https://pokeapi.co/api/v2/item/2155/"
+    },
+    {
+      "name": "jangmo-o-scales",
+      "url": "https://pokeapi.co/api/v2/item/2156/"
+    },
+    {
+      "name": "cramorant-down",
+      "url": "https://pokeapi.co/api/v2/item/2157/"
+    },
+    {
+      "name": "morpeko-snack",
+      "url": "https://pokeapi.co/api/v2/item/2158/"
+    },
+    {
+      "name": "poltchageist-powder",
+      "url": "https://pokeapi.co/api/v2/item/2159/"
+    }
+  ],
+  "name": "tm-materials",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "TM materials"
+    }
+  ],
+  "pocket": {
+    "name": "misc",
+    "url": "https://pokeapi.co/api/v2/item-pocket/1/"
+  }
+}

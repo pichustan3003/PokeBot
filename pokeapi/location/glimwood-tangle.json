@@ -1,0 +1,31 @@
+{
+  "areas": [
+    {
+      "name": "glimwood-tangle-area",
+      "url": "https://pokeapi.co/api/v2/location-area/891/"
+    }
+  ],
+  "game_indices": [],
+  "id": 904,
+  "name": "glimwood-tangle",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Wirrschein-Wald"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Glimwood Tangle"
+    }
+  ],
+  "region": {
+    "name": "galar",
+    "url": "https://pokeapi.co/api/v2/region/8/"
+  }
+}

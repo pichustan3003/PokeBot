@@ -1,0 +1,31 @@
+{
+  "areas": [
+    {
+      "name": "mossdeep-space-center-area",
+      "url": "https://pokeapi.co/api/v2/location-area/1181/"
+    }
+  ],
+  "game_indices": [],
+  "id": 1055,
+  "name": "mossdeep-space-center",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Moosbach City Raumfahrtzentrum"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Mossdeep Space Center"
+    }
+  ],
+  "region": {
+    "name": "hoenn",
+    "url": "https://pokeapi.co/api/v2/region/3/"
+  }
+}

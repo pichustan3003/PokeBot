@@ -1,0 +1,31 @@
+{
+  "areas": [
+    {
+      "name": "temple-of-sinnoh-area",
+      "url": "https://pokeapi.co/api/v2/location-area/1021/"
+    }
+  ],
+  "game_indices": [],
+  "id": 1027,
+  "name": "temple-of-sinnoh",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Sinnoh-Tempel"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Temple of Sinnoh"
+    }
+  ],
+  "region": {
+    "name": "hisui",
+    "url": "https://pokeapi.co/api/v2/region/9/"
+  }
+}
