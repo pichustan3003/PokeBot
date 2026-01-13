@@ -4,7 +4,7 @@ import json
 conn = sqlite3.connect('pokemon.db')
 c = conn.cursor()
 c.execute("""DROP TABLE IF EXISTS pokemon""")
-c.execute("""CREATE TABLE IF NOT EXISTS pokemon (ID int, Species TEXT(50), Type1 TEXT(8), Type2 TEXT(8), Ability1 TEXT(50), Ability2 TEXT(50), AbilityHidden TEXT(50),HP int, attack int, defense int, specialAttack int, specialDefense int, speed int, EVHP int, EVattack int, EVdefense int, EVspecialAttack int, EVspecialDefense int, EVspeed int)""")
+c.execute("""CREATE TABLE IF NOT EXISTS pokemon (ID INTEGER PRIMARY KEY, Species TEXT(50), Type1 TEXT(8), Type2 TEXT(8), Ability1 TEXT(50), Ability2 TEXT(50), AbilityHidden TEXT(50),HP INTEGER, attack INTEGER, defense INTEGER, specialAttack INTEGER, specialDefense INTEGER, speed INTEGER, BST INTEGER, EVHP INTEGER, EVattack INTEGER, EVdefense INTEGER, EVspecialAttack INTEGER, EVspecialDefense INTEGER, EVspeed INTEGER)""")
 
 class Pokemon:
     def __init__(self, id : int, species : str, types : list, stats : dict, abilities : dict, evs : dict):
@@ -21,6 +21,7 @@ class Pokemon:
         self.speed = stats['speed']
         self.specialAttack = stats['special-attack']
         self.specialDefense = stats['special-defense']
+        self.bst = sum(stats.values())
         self.evhp = evs['hp']
         self.evattack = evs['attack']
         self.evdefense = evs['defense']
@@ -30,7 +31,7 @@ class Pokemon:
 
     def writeToDB(self):
         c.execute("""INSERT INTO pokemon 
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         (
             self.id,
             self.species,
@@ -45,6 +46,7 @@ class Pokemon:
             self.specialAttack,
             self.specialDefense,
             self.speed,
+            self.bst,
             self.evhp,
             self.evattack,
             self.evdefense,
