@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dbfbbe9-faad-47f3-af0b-6035a2378da7" name="Changes" comment="Added the JSON files hopefully only need to do this once!">
-      <change afterPath="$PROJECT_DIR$/Backend/pokemon.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DBuild.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DownloadImgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DownloadImgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GetJSONsFromAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/GetJSONsFromAPI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Scrape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alllinks.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/alllinks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DBuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DBuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/pokemon.db" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/pokemon.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokeapi/pokemon-species/abra.json" beforeDir="false" afterPath="$PROJECT_DIR$/pokeapi/pokemon-species/abra.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.BotCmds.executor": "Run",
-    "Python.DBuild.executor": "Run",
-    "Python.DownloadImgs.executor": "Run",
-    "Python.GetJSONsFromAPI.executor": "Run",
-    "Python.Scrape.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.BotCmds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DBuild.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DownloadImgs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJSONsFromAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scrape.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python D\PokeBot\Backend" />
@@ -101,6 +97,7 @@
       <workItem from="1767803092144" duration="7244000" />
       <workItem from="1768329738945" duration="2000" />
       <workItem from="1768331005479" duration="6048000" />
+      <workItem from="1768415364117" duration="7909000" />
     </task>
     <task id="LOCAL-00001" summary="InitCommit&#10;Writes Id, Name, Types, Abilities, Stats to DB">
       <option name="closed" value="true" />
@@ -124,6 +121,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PokeBot$DownloadImgs.coverage" NAME="DownloadImgs Coverage Results" MODIFIED="1767805293663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PokeBot$BotCmds.coverage" NAME="BotCmds Coverage Results" MODIFIED="1768336208774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Frontend" />
-    <SUITE FILE_PATH="coverage/PokeBot$DBuild.coverage" NAME="DBuild Coverage Results" MODIFIED="1768332858327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend" />
+    <SUITE FILE_PATH="coverage/PokeBot$DBuild.coverage" NAME="DBuild Coverage Results" MODIFIED="1768426302089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend" />
   </component>
 </project>

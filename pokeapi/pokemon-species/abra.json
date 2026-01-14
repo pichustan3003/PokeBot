@@ -1676,7 +1676,7 @@
     }
   ],
   "order": 69,
-  "pal_park_encounters": [
+  "pal_park_encounters":  [
     {
       "area": {
         "name": "field",
