@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6dbfbbe9-faad-47f3-af0b-6035a2378da7" name="Changes" comment="Added data from mon_species">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DBuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DBuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/pokemon.db" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/pokemon.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +103,8 @@
       <workItem from="1768331005479" duration="6048000" />
       <workItem from="1768415364117" duration="8119000" />
       <workItem from="1768426835144" duration="89000" />
-      <workItem from="1768426971077" duration="172000" />
+      <workItem from="1768426971077" duration="613000" />
+      <workItem from="1768429849560" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="InitCommit&#10;Writes Id, Name, Types, Abilities, Stats to DB">
       <option name="closed" value="true" />
@@ -119,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768426732311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added data from mon_species">
+      <option name="closed" value="true" />
+      <created>1768427176561</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768427176561</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +145,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PokeBot$DownloadImgs.coverage" NAME="DownloadImgs Coverage Results" MODIFIED="1767805293663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PokeBot$BotCmds.coverage" NAME="BotCmds Coverage Results" MODIFIED="1768336208774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Frontend" />
-    <SUITE FILE_PATH="coverage/PokeBot$DBuild.coverage" NAME="DBuild Coverage Results" MODIFIED="1768426302089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend" />
+    <SUITE FILE_PATH="coverage/PokeBot$DBuild.coverage" NAME="DBuild Coverage Results" MODIFIED="1768430072241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend" />
   </component>
 </project>

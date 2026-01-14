@@ -91,9 +91,8 @@ def build_pokemon_species():
             self.baby = isBaby
             self.leg = isLeg
             self.myth = isMyth
-
         def writeToDB(self):
-            c.execute("""INSERT INTO pokemon_species VALUES (?, ?, ?, ?, ?)""", (self.id,self.name,self.baby,self.leg,self.myth))
+            c.execute(f"""INSERT INTO pokemon_species VALUES ({", ".join(["?"] * len(vars(self).values()))})""", tuple(vars(self).values()))
 
     def mon_species(relativePath : str):
         with open(relativePath, "r") as f:
