@@ -3,6 +3,8 @@ import sqlite3
 import json
 conn = sqlite3.connect('pokemon.db')
 c = conn.cursor()
+basePath = r"D:\Python D\PokeBot\Pokeapi"
+
 def build_pokemon():
     c.execute("""DROP TABLE IF EXISTS pokemon""")
     c.execute("""CREATE TABLE IF NOT EXISTS pokemon (ID INTEGER PRIMARY KEY, Species TEXT(50), Type1 TEXT(8), Type2 TEXT(
@@ -75,32 +77,36 @@ def build_pokemon():
         curMon = Pokemon(full["id"], full["name"], types, baseStats, abilitys, evs)
         curMon.writeToDB()
 
-    basePath = r"D:\Python D\PokeBot\pokeapi"
+
     for file in os.listdir(basePath+"\\pokemon\\"):
         monBuilder(basePath+"\\pokemon\\"+file)
 
 def build_pokemon_species():
 
     c.execute("""DROP TABLE IF EXISTS pokemon_species""")
-    c.execute("""CREATE TABLE pokemon_species (ID INTEGER PRIMARY KEY, Species TEXT(50), isBaby BOOLEAN, isLeg BOOLEAN, isMyth BOOLEAN)""")
+    c.execute("""CREATE TABLE pokemon_species (ID INTEGER PRIMARY KEY, Species TEXT(50), isBaby BOOLEAN, isLeg BOOLEAN, isMyth BOOLEAN, generation INTEGER, growthRate TEXT(20), genderRate FLOAT)""")
 
     class pokemon_species:
-        def __init__(self, id, name, isBaby, isLeg, isMyth):
+        def __init__(self, id, name, isBaby, isLeg, isMyth, genstring, growth, genrate):
             self.id = id
             self.name = name
             self.baby = isBaby
             self.leg = isLeg
             self.myth = isMyth
+            self.generation = self.romanNums2Int(genstring)
+            self.growth = growth
+            self.genderrate = genrate*12.5
+        def romanNums2Int(self, romanNum):
+            return {"generation-i":1,"generation-ii":2,"generation-iii":3,"generation-iv":4,"generation-v":5,"generation-vi":6,"generation-vii":7,"generation-viii":8,"generation-ix":9}[romanNum]
         def writeToDB(self):
             c.execute(f"""INSERT INTO pokemon_species VALUES ({", ".join(["?"] * len(vars(self).values()))})""", tuple(vars(self).values()))
 
     def mon_species(relativePath : str):
         with open(relativePath, "r") as f:
             full = json.load(f)
-        mon = pokemon_species(full["id"], full["name"], full["is_baby"], full["is_legendary"], full["is_mythical"])
+        mon = pokemon_species(full["id"], full["name"], full["is_baby"], full["is_legendary"], full["is_mythical"], full["generation"]["name"], full["growth_rate"]["name"], full["gender_rate"])
         mon.writeToDB()
 
-    basePath = r"D:\Python D\PokeBot\pokeapi"
     for file in os.listdir(basePath + "\\pokemon-species\\"):
         mon_species(basePath + "\\pokemon-species\\" + file)
 build_pokemon_species()
