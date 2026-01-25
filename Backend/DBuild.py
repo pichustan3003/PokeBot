@@ -5,6 +5,12 @@ conn = sqlite3.connect('pokemon.db')
 c = conn.cursor()
 basePath = r"D:\Python D\PokeBot\Pokeapi"
 
+
+def romanNums2Int(romanNum):
+    return {"generation-i": 1, "generation-ii": 2, "generation-iii": 3, "generation-iv": 4, "generation-v": 5,
+            "generation-vi": 6, "generation-vii": 7, "generation-viii": 8, "generation-ix": 9}[romanNum]
+
+
 def build_pokemon():
     c.execute("""DROP TABLE IF EXISTS pokemon""")
     c.execute("""CREATE TABLE IF NOT EXISTS pokemon (ID INTEGER PRIMARY KEY, Species TEXT(50), Type1 TEXT(8), Type2 TEXT(
@@ -93,11 +99,9 @@ def build_pokemon_species():
             self.baby = isBaby
             self.leg = isLeg
             self.myth = isMyth
-            self.generation = self.romanNums2Int(genstring)
+            self.generation = romanNums2Int(genstring)
             self.growth = growth
             self.genderrate = genrate*12.5
-        def romanNums2Int(self, romanNum):
-            return {"generation-i":1,"generation-ii":2,"generation-iii":3,"generation-iv":4,"generation-v":5,"generation-vi":6,"generation-vii":7,"generation-viii":8,"generation-ix":9}[romanNum]
         def writeToDB(self):
             c.execute(f"""INSERT INTO pokemon_species VALUES ({", ".join(["?"] * len(vars(self).values()))})""", tuple(vars(self).values()))
 
@@ -106,10 +110,69 @@ def build_pokemon_species():
             full = json.load(f)
         mon = pokemon_species(full["id"], full["name"], full["is_baby"], full["is_legendary"], full["is_mythical"], full["generation"]["name"], full["growth_rate"]["name"], full["gender_rate"])
         mon.writeToDB()
+        return mon
 
     for file in os.listdir(basePath + "\\pokemon-species\\"):
-        mon_species(basePath + "\\pokemon-species\\" + file)
-build_pokemon_species()
+        mon = mon_species(basePath + "\\pokemon-species\\" + file)
+
+def build_move():
+    c.execute("""DROP TABLE IF EXISTS move""")
+    class move:
+        def __init__(self, initial, attribs):
+
+            for attrib in attribs:
+                setattr(self, attrib, attribs[attrib])
+
+            if initial:
+                dbcmd = buildTBfromClass(self)
+                print(dbcmd)
+                c.execute(dbcmd)
+        def writeToDB(self):
+            print(vars(self))
+            c.execute(f"""INSERT INTO move VALUES ({", ".join(["?"] * len(vars(self).values()))})""",
+                tuple(vars(self).values()))
+
+    def movebuilder(relativePath : str, initial):
+        with open(relativePath, "r") as f:
+            full = json.load(f)
+        attribs = {
+            "id":full["id"],
+            "name":full["name"],
+            "accuracy":full["accuracy"],
+            "power":full["power"],
+            "pp":full["pp"],
+            "priority":full["priority"],
+            "type":full["type"]["name"],
+            "effect_chance":full["effect_chance"],
+            "crit_rate":full["meta"]["crit_rate"] if full["meta"] is not None else None,
+            "drain":full["meta"]["drain"] if full["meta"] is not None else None,
+            "generation":romanNums2Int(full["generation"]["name"]),
+        }
+        move(initial, attribs).writeToDB()
+    initi = True
+    for file in os.listdir(basePath + "\\move\\"):
+        movebuilder(basePath + "\\move\\" + file, initi)
+        initi = False
+def buildTBfromClass(object):
+    title = type(object).__name__
+    outstr = "CREATE TABLE IF NOT EXISTS "+title+" ("
+    varibles = vars(object)
+    for var in varibles:
+        match type(varibles[var]).__name__:
+            case "int":
+                outstr += " "+var+" INTEGER,"
+            case "float":
+                outstr += " "+var+" FLOAT,"
+            case "bool":
+                outstr += " "+var+" BOOLEAN,"
+            case "str":
+                outstr += " "+var+" TEXT(50),"
+            case "NoneType":
+                outstr += " "+var+" TEXT(50),"
+    outstr = outstr[:-1]
+    outstr += ")"
+    return outstr
+build_move()
 conn.commit()
 c.close()
 conn.close()
