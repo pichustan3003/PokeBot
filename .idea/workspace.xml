@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dbfbbe9-faad-47f3-af0b-6035a2378da7" name="Changes" comment="Added data from mon_species">
+    <list default="true" id="6dbfbbe9-faad-47f3-af0b-6035a2378da7" name="Changes" comment="Idk what I chan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DBuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DBuild.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/pokemon.db" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/pokemon.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +103,11 @@
       <workItem from="1768426835144" duration="89000" />
       <workItem from="1768426971077" duration="613000" />
       <workItem from="1768429849560" duration="316000" />
+      <workItem from="1768492995554" duration="978000" />
+      <workItem from="1768600994124" duration="37000" />
+      <workItem from="1769120234838" duration="17000" />
+      <workItem from="1769205228339" duration="3013000" />
+      <workItem from="1769458460989" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="InitCommit&#10;Writes Id, Name, Types, Abilities, Stats to DB">
       <option name="closed" value="true" />
@@ -145,6 +148,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PokeBot$DownloadImgs.coverage" NAME="DownloadImgs Coverage Results" MODIFIED="1767805293663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PokeBot$BotCmds.coverage" NAME="BotCmds Coverage Results" MODIFIED="1768336208774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Frontend" />
-    <SUITE FILE_PATH="coverage/PokeBot$DBuild.coverage" NAME="DBuild Coverage Results" MODIFIED="1768430072241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend" />
+    <SUITE FILE_PATH="coverage/PokeBot$DBuild.coverage" NAME="DBuild Coverage Results" MODIFIED="1769207571731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend" />
   </component>
 </project>
